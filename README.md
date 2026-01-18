@@ -13,9 +13,9 @@ I am learning Embedded C through hands-on projects.
 
 ## Projects
 
-https://wokwi.com/projects/436793931600884737 (WASTE MANAGEMENT)
-https://wokwi.com/projects/437062776425818113 (AUTOMATIC DOOR OPENING SYSTEM)
-https://wokwi.com/projects/437068914637978625 (AUTOMATIC PASSKEY ALERT SYSTEM)
+- https://wokwi.com/projects/436793931600884737 (WASTE MANAGEMENT)
+- https://wokwi.com/projects/437062776425818113 (AUTOMATIC DOOR OPENING SYSTEM)
+- https://wokwi.com/projects/437068914637978625 (AUTOMATIC PASSKEY ALERT SYSTEM)
 
 ## Contact
 stamilmozhi2004@gmail.com
